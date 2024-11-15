@@ -1,0 +1,6 @@
+customhost = "matrix.cnokkus8406e.us-east-1.rds.amazonaws.com"
+customuser = "will"
+custompass = "database007"
+customdb = "matrix"
+custombucket = "kouba10"
+customregion = "us-east-1"
